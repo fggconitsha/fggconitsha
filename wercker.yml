@@ -11,13 +11,11 @@ build:
     # A custom script step, name value is used in the UI
     # and the code value contains the command that get executed
     - script:
-        name: echo nodejs information
-        code: |
-          echo "node version $(node -v) running"
-          echo "npm version $(npm -v) running"
+       name: wintersmith build
+        code: ./node_modules/.bin/wintersmith build -v -o ./build
 deploy:
   steps:
     - lukevivier/gh-pages:
-        token: a2d345ad0c4baa2782a8fcdffcd241c81244f5b2
+        token: $GIT_TOKEN
         basedir: build
         # domain: fggconitsha.com
