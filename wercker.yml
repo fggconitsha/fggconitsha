@@ -15,3 +15,9 @@ build:
         code: |
           echo "node version $(node -v) running"
           echo "npm version $(npm -v) running"
+deploy:
+  steps:
+    - lukevivier/gh-pages:
+        token: a2d345ad0c4baa2782a8fcdffcd241c81244f5b2
+        basedir: build
+        # domain: fggconitsha.com
