@@ -1,3 +1,23 @@
-name: FGGC Onitsha
-markdown: redcarpet
-pygments: true
+
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+name: 						FGGC Onitsha
+description:      'Federal Government Girls College of Onitsha'
+url:              http://gajit.github.io
+
+author:
+  name:           'Greg Johns'
+  url:            https://twitter.com/greg_johns
+
+paginate:         5
+
+# Custom vars
+github:
+  repo:           https://github.com/fggc/fggc.github.io
+
