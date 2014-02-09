@@ -7,25 +7,16 @@
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
-    <div class="wrap">      
-      <div class="masthead">
+    <div id="layout">      
+      <div class="main">
         <div class="container">
           {% include header.html %}          
           <!-- <label for="sidebar-checkbox" class="sidebar-toggle"></label> -->
-          {% if page.title == "Home" %}
-          <!-- <h1 class="masthead-title">
-            <a href="/" title="Home">Welcome </a>
-          </h1> -->
-          {% else %}
-          {% endif %}
           {% include menu.html %}
+          {{ content }}
+          {% include footer.html %}
         </div>
       </div>
-
-      <div class="container content">
-        {{ content }}
-      </div>
     </div>
-    {% include footer.html %}
   </body>
 </html>
