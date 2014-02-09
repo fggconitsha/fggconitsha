@@ -9,11 +9,7 @@ title: About
 
 **Founded:** 1977  
 **Located In:** Anambra State, Southeastern Nigeria  
-**Address:**  
-Federal Government Girls College Onitsha,
-P.M.B 1636,
-Onitsha, Anambra State,
-Nigeria
+**Address:** Federal Government Girls College Onitsha, P.M.B 1636, Onitsha, Anambra State, Nigeria
 
 ### Anthem
 By the waters of the Niger  
@@ -44,23 +40,23 @@ We strive for ever higher standard
 Grow in strength from year to year  
 
 ### Houses  
-![Blue](images/blue.gif) Zinnia   
-![Red](images/red.gif) Cherry   
-![Brown](images/brown.gif) Ixora   
-![Green](images/green.gif) Jasmine   
-![Purple](images/purple.gif) Bougainvillea   
-![Pink](images/pink.gif) Rose   
-![Yellow](images/yellow.gif) Yellow   
-![Orange](images/orange.gif) Marigold   
+![Blue](/images/blue.gif) Zinnia   
+![Red](/images/red.gif) Cherry   
+![Brown](/images/brown.gif) Ixora   
+![Green](/images/green.gif) Jasmine   
+![Purple](/images/purple.gif) Bougainvillea   
+![Pink](/images/pink.gif) Rose   
+![Yellow](/images/yellow.gif) Yellow   
+![Orange](/images/orange.gif) Marigold   
 
-<img src="images/blue.gif" width="20" height="13"> Zinnia   
-<img src="images/red.gif" width="20" height="13"> Cherry    
-<img src="images/brown.gif" width="20" height="13"> Ixora  
-<img src="images/green.gif" width="20" height="13"> Jasmine  
-<img src="images/purple.gif" width="20" height="13"> Bougainvillea  
-<img src="images/pink.gif" width="20" height="13"> Rose  
-<img src="images/yellow.gif" width="20" height="13"> Alamanda  
-<img src="images/orange.gif" width="20" height="13"> Marigold 
+<img src="/images/blue.gif" width="20" height="13"> Zinnia   
+<img src="/images/red.gif" width="20" height="13"> Cherry    
+<img src="/images/brown.gif" width="20" height="13"> Ixora  
+<img src="/images/green.gif" width="20" height="13"> Jasmine  
+<img src="/images/purple.gif" width="20" height="13"> Bougainvillea  
+<img src="/images/pink.gif" width="20" height="13"> Rose  
+<img src="/images/yellow.gif" width="20" height="13"> Alamanda  
+<img src="/images/orange.gif" width="20" height="13"> Marigold 
 
 ### Notables
 **Founding Principal**: Mrs. Okobi  
@@ -92,11 +88,11 @@ Lorem Ipsum
 
 
 ### Alumni Communities
-<img src="images/nigflag.gif" width="20" height="13">   
+<img src="/images/nigflag.gif" width="20" height="13">   
 FGGC Onitsha Abuja Chapter, Abuja Nigeria   
 FGGC Onitsha Lagos Chapter, Lagos, Nigeria  
 
-<img src="images/usaflag.gif" width="20" height="13">   
+<img src="/images/usaflag.gif" width="20" height="13">   
 FGGC Onitsha USA / Canada Chapter, USA / Canada
 
 ### Give Back
@@ -110,7 +106,7 @@ By making contributions day to day, month to month, year to year, alumni and fri
 
 **How to Donate**        
  
-* Give Online - through our paypal account (coming soon).  
+* Give online - through our paypal account (coming soon).  
 * Give by mail - mail your check made payable to .
 
 To all those that have contributed in any way - **_Thank you so much for your support!_**
