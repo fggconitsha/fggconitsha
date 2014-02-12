@@ -2,6 +2,7 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box;
+  margin: 0; padding: 0;
 }
 
 body {
@@ -9,6 +10,12 @@ body {
   color: #443a38;
   font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
 }
+/*.page-title {
+  font-size: 1.4em;
+  letter-spacing: 18px;
+  font-style: italic;
+  font-weight: 800;
+}*/
 a {
   text-decoration: none;
   color: #color: #fff;
@@ -17,7 +24,36 @@ a:hover,
 a:focus {
   background-color: #443a38;
 }
+.posts h2 {
+    padding-bottom: 2px;
+    border-bottom: 1px dashed #7C7472;
+}
+.posts h2 a, .page-title {
+  padding: 4px 2px;
+  letter-spacing: 0.025em;
+  color: #443a38;
+  font-style: italic;
+  font-size: 40px;
+  font-weight: 800;
+}
+.posts h2 a:hover, {
+  color: #fff;
+  background-color: #443a38;
+}
+.posts small { 
+  display: inline-block;
+  color: #7C7472;
+  float: right;
+  font-size: 0.8em
+  position: relative;
+  margin-top: -40px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 700;
+}
 
+p { 
+  letter-spacing: 0.005em
+}
 /* LAYOUT CSS */
 #layout {
   padding-left: 25%; /* "left col (nav + list)" width */
@@ -42,23 +78,38 @@ header {
 
 header div {
   display: inline-block;
-  padding-right: 10px;
   float: left;
 }
 
 header img, header h1, header h2, header h3 {
-  margin: 0;
+  margin: 0; border: 0;
 }
 header h1 {
   font-size: 1.75em;
+  background-color: #443a38;
+  padding-right: 30px;
+  margin: -1px 20px;
 }
-header h2 { font-size: 4.8em; padding-top: 20px; }
-header h3 { text-align: center; font-size: 1em }
+header h1 a { 
+  color: #443a38;
+  background-color: #e4ded7;
+}
+header h2 { 
+  font-size: 4.8em; 
+  padding-top: 20px; 
+  font-weight: 200;
+}
+header h3 { 
+  text-align: center; 
+  font-size: 1em; 
+  font-size: 100;
+  letter-spacing: 0.05em;
+}
 
 .pure-menu.pure-menu-horizontal {
   background-color: #ff6502;
-  height: 50px;
-  border-bottom: 4px solid #443a38;
+  height: 52px;
+  border-bottom: 6px solid #443a38;
 }
 
 .pure-menu.pure-menu-horizontal a {
@@ -66,16 +117,22 @@ header h3 { text-align: center; font-size: 1em }
   background-color: #ff6502;
   height: 46px;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 1em;
+  font-size: 1.2em;
   font-weight: 800;
   letter-spacing: 0.075em;
-  padding-top: 12px;
+  padding-top: 10px;
   color: #fff;
 }
 
 .pure-menu.pure-menu-horizontal a:hover {
   background-color: #443a38;
 }
+
+#page-wrap { 
+  width: 800px;
+  margin: 0px auto 60px;
+}
+
 .content {
   padding: 2em;
 }
