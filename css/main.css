@@ -87,12 +87,18 @@ header img, header h1, header h2, header h3 {
 header h1 {
   font-size: 1.75em;
   background-color: #443a38;
-  padding-right: 30px;
-  margin: -1px 20px;
+  padding-right: 24px;
+  height: 31px;
+  margin: 0 20px;
 }
-header h1 a { 
+header h1 a {
   color: #443a38;
+  padding-left: 4px;
   background-color: #e4ded7;
+}
+header h1 a:hover { 
+  color: #e4ded7;
+  background-color: #443a38;
 }
 header h2 { 
   font-size: 4.8em; 
