@@ -18,7 +18,7 @@ body {
 }*/
 a {
   text-decoration: none;
-  color: #color: #fff;
+  color: #fff;
 }
 a:hover,
 a:focus {
@@ -26,7 +26,7 @@ a:focus {
 }
 .posts h2 {
     padding-bottom: 2px;
-    border-bottom: 1px dashed #7C7472;
+    border-bottom: 1px dashed #b8b1b0;
 }
 .posts h2 a, .page-title {
   padding: 4px 2px;
@@ -36,13 +36,13 @@ a:focus {
   font-size: 40px;
   font-weight: 800;
 }
-.posts h2 a:hover, {
-  color: #fff;
+.posts h2 a:hover {
+  color: #e4ded7;
   background-color: #443a38;
 }
 .posts small { 
   display: inline-block;
-  color: #7C7472;
+  color: #b8b1b0;
   float: right;
   font-size: 0.8em
   position: relative;
@@ -120,7 +120,6 @@ header h3 {
 
 .pure-menu.pure-menu-horizontal a {
   -webkit-font-smoothing: antialiased;
-  background-color: #ff6502;
   height: 46px;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.2em;
@@ -132,7 +131,18 @@ header h3 {
 
 .pure-menu.pure-menu-horizontal a:hover {
   background-color: #443a38;
+  padding-left: -2px;
 }
+
+.active {
+  background-color: #443a38;
+}
+/*.menu-nav-item {
+  background-color: pink;
+}
+.active{
+  background-color: blue; 
+}*/
 
 #page-wrap { 
   width: 800px;

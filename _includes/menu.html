@@ -2,13 +2,13 @@
 <div class="menu" id="menu">
   <nav class="pure-menu pure-menu-open pure-menu-horizontal">
     <ul>
-      <li><a href="http://fggconitsha.github.io/">Home</a></li>
+      <li><a class="{% if page.title == "Home" %}active{% endif %}" href="http://fggconitsha.github.io/">Home</a></li>
       {% assign pages_list = site.pages %}
         {% for node in pages_list %}
           {% if node.title != null %}
             {% if node.layout == "page" %}
               <li>
-                <a class="menu-nav-item{% if page.url == node.url %} active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
+                <a class="{% if page.url == node.url %}active{% endif %}" href="{{ node.url }}">{{ node.title }}</a>
               </li>
             {% endif %}
         {% endif %}
