@@ -50,6 +50,10 @@ a:focus {
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
 }
+small {
+  color: #837977;
+  padding-top: 12px;
+}
 
 p { 
   letter-spacing: 0.005em
@@ -183,6 +187,8 @@ header h3 {
 
 footer {
   vertical-align: bottom;
+  font-family: Arial, Helvetica, sans-serif;
+  letter-spacing: 0.05em;
   text-align: center;
   padding: 1em 0;
   margin-bottom: -100px;
