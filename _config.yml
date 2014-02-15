@@ -7,7 +7,8 @@ pygments:         true
 permalink:        pretty
 
 # Setup
-name: 						FGGC Onitsha
+name: 			  FGGC Onitsha
+title: 			  FGGC
 description:      'Federal Government Girls College of Onitsha'
 url:              http://gajit.github.io
 

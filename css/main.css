@@ -46,7 +46,7 @@ a:focus {
   float: right;
   font-size: 0.8em
   position: relative;
-  margin-top: -40px;
+  margin-top: -54px;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: 700;
 }
@@ -58,6 +58,8 @@ small {
 p { 
   letter-spacing: 0.005em
 }
+
+dl, menu, ol, ul { margin: 0; }
 /* LAYOUT CSS */
 #layout {
   padding-left: 25%; /* "left col (nav + list)" width */
