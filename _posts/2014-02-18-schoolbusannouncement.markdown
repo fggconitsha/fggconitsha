@@ -1,12 +1,12 @@
 ---
 layout: post
 title:  "We Bus-sed it!!"
-date:   2014-02-18
+date:   2014-02-17
 ---
-Yes!! We made it! After two years of planning and effort, our alma mater, FGGC Onitsha, has received the school bus donated by the FGGC Onitsha USA/Canada Alumni Chapter.
+Yes!! We made it! After two years of planning and a lot of collaborative effort, our alma mater, FGGC Onitsha, has received the school bus donated by the FGGC Onitsha USA/Canada Alumni Chapter.
 
 
-### Bus Delivered
+### The Bus is Here
 On November, 15 2013, the school bus, purchased by the FGGC Onitsha USA/Canada Alumni Chapter, through our collective fund-raising efforts, was delivered to the school.
 
 We cannot express to you in words the joy, excitement and gratitude of the Principal, Dr Mrs Chinyere Nzerem, the entire staff and students of our beloved alma mater. Instead, we shall attempt to convey this in pictures:
@@ -24,7 +24,7 @@ Special Acknowledgement to the following people who went above and beyond.
 
 We thank you for your dedication and being instrumental in facilitating this project.
 
-### More To Come
+### More To Come..
 We are not done yet. Our aim is continue giving and supporting FGGC Onitsha, giving back as much as we can.
 
 Please join us in this effort. See how you can help.

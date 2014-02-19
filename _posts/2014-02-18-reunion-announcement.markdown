@@ -3,7 +3,7 @@ layout: post
 title:  "2014 Reunion/Convention Weekend - Maryland"
 date:   2014-02-18
 ---
-It's fast approaching… Don't miss out. **_Save the Date: July 25th - July 27th 2014!_**
+It's fast approaching… Don't miss out. **_Save the Date: July 25th - July 27th 2014!_**  
 
 ## Save the Date
 Join us for our 2014 Reunion/Convention Weekend in Maryland from **Friday, July 25th - Sunday July 27th 2014**.

@@ -3,8 +3,7 @@ layout: post
 title:  "Dial In - Saturday March 8 2014"
 date:   2014-02-18
 ---
-
-Get dialed in… Join us for our next Monthly meeting on Saturday, March 8 2014
+Get dialed in… Join us for our next Monthly meeting on Saturday, March 8 2014  
 
 The F.G.G.C. Onitsha - USA and Canada alumni branch invites you to its monthly meeting on the 2nd Saturday of every month.  
 
