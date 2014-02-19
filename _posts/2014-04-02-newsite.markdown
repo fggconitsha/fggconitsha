@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Somethings Comming..."
+title:  "Somethings Coming..."
 date:   2014-02-04 15:17:53
 categories: jekyll update
 ---
