@@ -8,7 +8,7 @@
 body {
   background-color: #e4ded7;
   color: #443a38;
-  font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+  font-family: Arial, Helvetica, sans-serif;
 }
 /*.page-title {
   font-size: 1.4em;
@@ -24,16 +24,13 @@ a:hover,
 a:focus {
   background-color: #443a38;
 }
-.posts h2 {
+/*.posts h2 {
     padding-bottom: 2px;
-    border-bottom: 1px dashed #b8b1b0;
-}
+}*/
 .posts h2 a, .page-title {
   padding: 4px 2px;
-  letter-spacing: 0.025em;
   color: #443a38;
-  font-style: italic;
-  font-size: 40px;
+  font-size: 32px;
   font-weight: 800;
 }
 .posts h2 a:hover {
@@ -60,6 +57,7 @@ p {
 }
 
 dl, menu, ol, ul { margin: 0; }
+
 /* LAYOUT CSS */
 #layout {
   padding-left: 25%; /* "left col (nav + list)" width */
@@ -111,7 +109,7 @@ header h2 {
   padding-top: 20px; 
   font-weight: 200;
 }
-header h3 { 
+header h3 {
   text-align: center; 
   font-size: 1em; 
   font-size: 100;
@@ -121,6 +119,7 @@ header h3 {
 .pure-menu.pure-menu-horizontal {
   background-color: #ff6502;
   height: 52px;
+  margin-top: 8px;
   border-bottom: 6px solid #443a38;
 }
 
@@ -130,7 +129,7 @@ header h3 {
   font-family: Arial, Helvetica, sans-serif;
   font-size: 1.2em;
   font-weight: 800;
-  letter-spacing: 0.075em;
+  letter-spacing: 0.025em;
   padding-top: 10px;
   margin-right: -4px;
   color: #fff;
@@ -164,7 +163,8 @@ header h3 {
   max-width: 46em;
 }
 .post {
-  padding-bottom: 2em;
+  padding-bottom: 1em;
+  border-bottom: 1px dashed #b8b1b0;
 }
 .post-title {
   font-size: 2em;
@@ -195,10 +195,19 @@ footer {
   padding: 1em 0;
   margin-bottom: -100px;
   background-color: #a49d9d;
+  background: #a49d9d; /* Old browsers */
+  background: -moz-linear-gradient(top,  #a49d9d 0%, #e4ded7 100%); /* FF3.6+ */
+  background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a49d9d), color-stop(100%,#e4ded7)); /* Chrome,Safari4+ */
+  background: -webkit-linear-gradient(top,  #a49d9d 0%,#e4ded7 100%); /* Chrome10+,Safari5.1+ */
+  background: -o-linear-gradient(top,  #a49d9d 0%,#e4ded7 100%); /* Opera 11.10+ */
+  background: -ms-linear-gradient(top,  #a49d9d 0%,#e4ded7 100%); /* IE10+ */
+  background: linear-gradient(to bottom,  #a49d9d 0%,#e4ded7 100%); /* W3C */
+  filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a49d9d', endColorstr='#e4ded7',GradientType=0 ); /* IE6-9 */
 }
 footer a {
-  color: #ccc;
-  font-size: 80%;
+  color: #837977;
+  font-size: 160%;
+  padding: 12px;
 }
 footer .pure-menu a:hover,
 footer .pure-menu a:focus {

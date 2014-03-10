@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Register
+title: Community
 ---
 
-Registration page
+Community page
