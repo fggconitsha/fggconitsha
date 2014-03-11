@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "2014 Reunion/Convention Weekend - Maryland"
+title:  "2014 Reunion Weekend"
 date:   2014-02-18
 ---
-It's fast approaching… Don't miss out. **_Save the Date: July 25th - July 27th 2014!_**  
+The 3rd Alumni Reunion/Convention is fast approaching… Don't miss out. **_Save the Date: July 25th - July 27th 2014!_**  
 
 ## Save the Date
-Join us for our 2014 Reunion/Convention Weekend in Maryland from **Friday, July 25th - Sunday July 27th 2014**.
+Join us for our 3rd Reunion/Convention Weekend in Maryland from **Friday, July 25th - Sunday July 27th 2014**.
 
 There are lots of exciting events lined up for this weekend which we promise shall be full of fun, dining, camaraderie and most importantly, some fund raising for our continued support of our alma mater. 
 
