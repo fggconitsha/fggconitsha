@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "We Bus-sed it!!"
+title:  "The Bus Is Here"
 date:   2014-02-17
 ---
-Yes!! We made it! After two years of planning and a lot of collaborative effort, our alma mater, FGGC Onitsha, has received the school bus donated by the FGGC Onitsha USA/Canada Alumni Chapter. Thank You for making it happen!
-
+<!--<img style="float: left; padding: 3px 3px 0px 3px;" src="/images/schoolbus1.jpg" width="150" height="100" alt="School Bus"> -->
+We are very pleased to announce that our alma mater has received the School Bus. After two years of planning and a lot of collaborative effort, our alma mater, FGGC Onitsha, has received the school bus donated by the FGGC Onitsha USA/Canada Alumni Chapter. Thank you for making it happen! 
 
 ### The Bus is Here
 <img src="/images/schoolbus1.jpg" width="670" height="380" alt="School Bus">  
