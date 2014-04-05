@@ -7,6 +7,7 @@
 
 body {
   background-color: #e4ded7;
+/*  background-color: #fff;*/
   color: #443a38;
   font-family: Arial, Helvetica, sans-serif;
 }
@@ -37,7 +38,7 @@ a:focus {
   color: #e4ded7;
   background-color: #443a38;
 }
-.posts small { 
+.posts small {
   display: inline-block;
   color: #b8b1b0;
   float: right;
@@ -52,7 +53,7 @@ small {
   padding-top: 12px;
 }
 
-p { 
+p {
   letter-spacing: 0.005em
 }
 
@@ -73,7 +74,7 @@ dl, menu, ol, ul { margin: 0; }
   margin-left: -25%;
 }
 
-header { 
+header {
   -webkit-font-smoothing: antialiased;
   font-family: Arial, Helvetica, sans-serif;
   height: 160px;
@@ -90,7 +91,7 @@ header img, header h1, header h2, header h3 {
 }
 header h1 {
   font-size: 1.75em;
-  background-color: #443a38;
+/*  background-color: #443a38;*/
   padding-right: 24px;
   height: 31px;
   margin: 0 20px;
@@ -100,18 +101,18 @@ header h1 a {
   padding-left: 4px;
   background-color: #e4ded7;
 }
-header h1 a:hover { 
+header h1 a:hover {
   color: #e4ded7;
   background-color: #443a38;
 }
-header h2 { 
-  font-size: 4.8em; 
-  padding-top: 20px; 
+header h2 {
+  font-size: 4.8em;
+  padding-top: 20px;
   font-weight: 200;
 }
 header h3 {
-  text-align: center; 
-  font-size: 1em; 
+  text-align: center;
+  font-size: 1em;
   font-size: 100;
   letter-spacing: 0.05em;
 }
@@ -147,10 +148,10 @@ header h3 {
   background-color: pink;
 }
 .active{
-  background-color: blue; 
+  background-color: blue;
 }*/
 
-#page-wrap { 
+#page-wrap {
   width: 800px;
   margin: 0px auto 60px;
 }
@@ -185,6 +186,31 @@ header h3 {
   color: #999;
   font-size: 90%;
   margin: 0;
+}
+
+em {
+  color: #716558;
+  text-align: center;
+  font-size: 1.8em;
+  text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
+  line-height: 1.2em;
+}
+
+blockquote {
+  color: #716558;
+  font-size: 1.2em;
+  line-height: 1.4em;
+  text-align: center;
+/*  background-color: #ccc;*/
+	padding: 20px;
+/*	width: 400px;*/
+  text-shadow: 1px 1px 1px rgba(255,255,255,1.0);
+/*	-moz-border-radius: 5px;*/
+/*	-webkit-border-radius: 5px;*/
+}
+blockquote p:first-child:first-letter {
+	font-weight: 900;
+	font-size: 2em;
 }
 
 footer {
