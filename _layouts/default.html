@@ -7,10 +7,10 @@
 
     <!-- Wrap is the content to shift when toggling the sidebar. We wrap the
          content to avoid any CSS collisions with our real content. -->
-    <div id="page-wrap">      
+    <div id="page-wrap">
       <!-- <div class="main"> -->
         <div class="container">
-          {% include header.html %}          
+          {% include header.html %}
           <!-- <label for="sidebar-checkbox" class="sidebar-toggle"></label> -->
           {% include menu.html %}
           {{ content }}
@@ -26,6 +26,7 @@
       $('.bxslider').bxSlider({
         // mode: 'vertical',
         // adaptiveHeight: true,
+        pager: false,
         auto: true,
         speed: 2000,
         hideControlOnEnd: true,
