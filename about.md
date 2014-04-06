@@ -55,11 +55,11 @@ title: About
 
 ----
 ### Houses
-Zinnia
-Cherry
-Ixora  
-Jasmine  
-Bougainvillea  
-Rose  
-Alamanda  
-Marigold
+<div class="zinnia">Zinnia</div>
+<div class="cherry">Cherry</div>
+<div class="ixora">Ixora</div>  
+<div class="jasmine">Jasmine</div>  
+<div class="bougainvillea">Bougainvillea</div>  
+<div class="rose">Rose</div>  
+<div class="alamanda">Alamanda</div>  
+<div class="marigold">Marigold</div>

@@ -191,9 +191,13 @@ header h3 {
 em {
   color: #716558;
   text-align: center;
-  font-size: 1.8em;
+  font-size: 1.6em;
   text-shadow: 1px 1px 1px rgba(255,255,255,0.8);
   line-height: 1.2em;
+}
+em:first-child:first-letter {
+  font-weight: 900;
+  font-size: 2em;
 }
 
 blockquote {
@@ -251,4 +255,34 @@ footer .pure-menu a:focus {
   .content {
     padding: 1em;
   }
+}
+.zinnia, .cherry, .ixora, .jasmine, .bougainvillea, .rose, .alamanda, .marigold {
+  padding-left: 10px;
+  display: block;
+  margin: 10px;
+}
+
+.zinnia {
+  border-left: 16px solid #2489d3;
+}
+.cherry {
+  border-left: 16px solid #ad173b;
+}
+.ixora {
+  border-left: 16px solid #62449b;
+}
+.jasmine {
+  border-left: 16px solid #27aa37;
+}
+.bougainvillea {
+  border-left: 16px solid #483451;
+}
+.rose {
+  border-left: 16px solid #bd74b0;
+}
+.alamanda {
+  border-left: 16px solid #efde11;
+}
+.marigold {
+  border-left: 16px solid #e48c43;
 }
