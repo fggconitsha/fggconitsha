@@ -71,11 +71,13 @@ title: About
 
 ----
 ### Houses
-<div class="zinnia">Zinnia</div>
-<div class="cherry">Cherry</div>
-<div class="ixora">Ixora</div>  
-<div class="jasmine">Jasmine</div>  
-<div class="bougainvillea">Bougainvillea</div>  
-<div class="rose">Rose</div>  
-<div class="alamanda">Alamanda</div>  
-<div class="marigold">Marigold</div>
+<div class="houses">
+  <div class="zinnia">Zinnia</div>
+  <div class="cherry">Cherry</div>
+  <div class="ixora">Ixora</div>  
+  <div class="jasmine">Jasmine</div>  
+  <div class="bougainvillea">Bougainvillea</div>  
+  <div class="rose">Rose</div>  
+  <div class="alamanda">Alamanda</div>  
+  <div class="marigold">Marigold</div>
+</div>
