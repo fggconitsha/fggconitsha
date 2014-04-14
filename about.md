@@ -8,7 +8,7 @@ title: About
 ------
 ## Federal Government Girls Collage
 
-**Founded:** 1977  
+**Founded:** 1977
 **Location:** Anambra State, Southeastern Nigeria  
 **Address:** Federal Government Girls College Onitsha, P.M.B 1636, Onitsha, Anambra State, Nigeria
 
@@ -16,13 +16,29 @@ title: About
 ## FGGC Onitsha Alumni Association - USA/Canada Chapter
 **Founded:** 2009
 
-**President:**  <a href="#mailto:vivian.onyeama@fggconitsha.com" class="email">Vivian Oby Onyeama Denchukwu</a> - Class of 1986  
-**Vice President:** <a href="#mailto:stella.ibeziako@fggconitsha.com" class="email">Uche Stella Ibeziako Onwuta </a>- Class of 1982  
-**Secretary:** <a href="#mailto:stella.chuke@fggconitsha.com" class="email">Stella O. Chuke</a> - Class of 1985  
-**Public Relations Officer:**
-**Treasurer:** <a href="#mailto:nene.okonmah@fggconitsha.com" class="email">Nene Okonmah Akintan</a> - Class of 1983  
-**Financial Secretary:** <a href="#mailto:ifeyinwa.brown@fggconitsha.com" class="email">Ifeyinwa Brown Halilu</a> - Class of 1982  
-**Legal Counsel**: <a href="#mailto:uche.ewelukwa@fggconitsha.com" class="email">Uche Ewelukwa Ofodile</a> - Class of 1984
+<table>
+  <tr>
+    <th>Office</th><th>Held by</th><th>Class</th>
+  </tr>
+  <tr>
+    <td>President</td><td><a href="#mailto:vivian.onyeama@fggconitsha.com" class="email">Vivian Oby Onyeama Denchukwu</a></td><td>1986</td>
+  </tr>
+  <tr>
+    <td>Vice President</td><td><a href="#mailto:stella.ibeziako@fggconitsha.com" class="email">Uche Stella Ibeziako Onwuta</a></td><td>1982</td>
+  </tr>
+  <tr>
+    <td>Secretary</td><td><a href="#mailto:stella.chuke@fggconitsha.com" class="email">Stella O. Chuke</a></td><td>1985</td>
+  </tr>
+  <tr>
+    <td>Public Relations</td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>Treasurer</td><td><a href="#mailto:nene.okonmah@fggconitsha.com" class="email">Nene Okonmah Akintan</a></td><td>1982</td>
+  </tr>
+  <tr>
+    <td>Legal Counsel</td><td><a href="#mailto:uche.ewelukwa@fggconitsha.com" class="email">Uche Ewelukwa Ofodile</a></td><td>1984</td>
+  </tr>
+</table>
 
 ----
 > ### Anthem
