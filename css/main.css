@@ -17,14 +17,7 @@ body {
   font-style: italic;
   font-weight: 800;
 }*/
-a {
-  text-decoration: none;
-  color: #fff;
-}
-a:hover,
-a:focus {
-  background-color: #443a38;
-}
+
 table {
   margin-bottom: 20px;
   width: 100%;
@@ -42,7 +35,7 @@ table th:last-child {
 table th:first-child {
   text-align: right;
 }
-table a {
+a {
   color: #998811;
 }
 table tr:first-child {
@@ -194,6 +187,10 @@ header h3 {
   background-color: blue;
 }*/
 
+a:hover, a:focus {
+  background-color: #443a38;
+}
+
 #page-wrap {
   width: 800px;
   margin: 0px auto 60px;
@@ -244,21 +241,23 @@ em {
   font-weight: 900;
   font-size: 2em;
 }*/
-
+ol {
+  margin-bottom: 20px;
+}
 blockquote {
   color: #716558;
   font-size: 1.2em;
   line-height: 1.2em;
   text-align: center;
   background-color: #e4ded7;
-	padding: 20px;
+  padding: 20px;
   text-shadow: 1px 1px 1px rgba(255,255,255,1.0);
-	-moz-border-radius: 5px;
-	-webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -webkit-border-radius: 5px;
 }
 blockquote p:first-child:first-letter {
-	font-weight: 900;
-	font-size: 2.4em;
+  font-weight: 900;
+  font-size: 2.4em;
 }
 
 footer {
@@ -275,6 +274,7 @@ footer a {
   color: #837977;
   font-size: 160%;
   padding: 12px;
+  text-decoration:;
 }
 footer .pure-menu a:hover,
 footer .pure-menu a:focus {

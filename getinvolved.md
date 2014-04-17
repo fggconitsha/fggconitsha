@@ -13,7 +13,7 @@ If your a past graduate of FGGC then please Join. We would love to have you.
 
 Fellow FGGCers who wish to register with FGGC Onitsha Alumni Association, USA/Canada Chapter, are to send an email to:
 
-> ifeyinwa dot brown at fggconitsha.com
+<a href=mailto:ifeyinwa.brown@fggconitsha.com>ifeyinwa dot brown at fggconitsha.com</a>
 
 Please include the following:
 
@@ -35,11 +35,11 @@ By making contributions day to day, month to month, year to year, alumni and fri
 **How to Donate**
 
 * Give online - through our paypal account (coming soon).  
-* Give by mail - mail your check made payable to.
+* Give by mail - mail your check made payable to:
 
-> ifeyinwa dot brown at fggconitsha.com
+<a href=mailto:ifeyinwa.brown@fggconitsha.com>ifeyinwa dot brown at fggconitsha.com</a>
 
-> To all those that have contributed in any way  
+To all those that have contributed in any way  
 **_Thank you so much for your support!_**
 
 
