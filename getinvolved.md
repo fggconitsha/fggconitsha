@@ -3,13 +3,12 @@ layout: page
 title: Get Involved
 ---
 
-*Our goal is to build a strong alumnae group in the diaspora so collectively, we can give back to our Alma Mater that will help our alumni associations, scholarships for our students. educational foundations, sports teams, community groups, civic organizations, networking groups, faith based organizations, churches, youth groups, and any other member organizations*
+*Our goal is to build a strong alumnae group in the diaspora so that collectively, we can give back to our Alma Mater*
 
 -----
 ### Membership
 
 All FGGC Onitsha alumni who reside in USA or Canada are invited to join this chapter.
-If your a past graduate of FGGC then please Join. We would love to have you.
 
 Fellow FGGCers who wish to register with FGGC Onitsha Alumni Association, USA/Canada Chapter, are to send an email to:
 

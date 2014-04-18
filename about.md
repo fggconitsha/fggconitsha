@@ -6,10 +6,10 @@ title: About
 *As we graduate and move on with life, memories of our experiences at school continue to shape the strong and successful women we've become.*
 
 ------
-## Federal Government Girls Collage
+## Federal Government Girls College
 
-**Founded:** 1977
-**Location:** Anambra State, Southeastern Nigeria  
+**Founded:** 1977  
+**Location:** Anambra State, Southeastern Nigeria   
 **Address:** Federal Government Girls College Onitsha, P.M.B 1636, Onitsha, Anambra State, Nigeria
 
 
